@@ -18,7 +18,7 @@ if($link)
         $close=mysql_close($link);
         if($close)
         {
-         echo"<script type="."\""."text/javascript"."\"".">"."window.location="."\""."regsuccess.html"."\""."</script>";    
+         echo"<script type="."\""."text/javascript"."\"".">"."window.location="."\""."https://jiangmengting.github.io/test/regsuccess.html"."\""."</script>";    
         }
         }
         else
